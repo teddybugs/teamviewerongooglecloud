@@ -9,6 +9,7 @@
 sudo passwd username (your username)
 ```
 (we will need password to login to GUI later)
+
 6) type:
 ```bash
 sudo su -
@@ -95,4 +96,4 @@ View Recorded video at:
 
 [![Ubuntu](http://img.youtube.com/vi/c8pXhTmxZRA/0.jpg)](https://youtu.be/c8pXhTmxZRA "Ubuntu")
 
-Happy Trying, dont forget to Like my video on Youtube :))
+Enjoy, dont forget to Like my video on Youtube :))
